@@ -1,9 +1,13 @@
 Embodied Agentic Harnesses for Physical Intelligence A Survey
 
 Yu Huang*, Yue Chen&, Zijiang Yang#, Gary Ding^
+
 *: Institute of Advanced Technology, University of Science and Technology of China, China 
+
 #: School of Computer Science & Technology, University of Science and Technology of China, China 
+
 &: Futurewei Technology Inc., San Jose, USA
+
 ^: Dartmouth College
 
 Abstract
