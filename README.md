@@ -1,3 +1,13 @@
+<img width="468" height="170" alt="image" src="https://github.com/user-attachments/assets/994034dd-423a-4f68-a116-9dfa961f12f4" />Embodied Agentic Harnesses for Physical Intelligence A Survey
+
+Yu Huang*, Yue Chen&, Zijiang Yang#, Gary Ding^
+*: Institute of Advanced Technology, University of Science and Technology of China, China 
+#: School of Computer Science & Technology, University of Science and Technology of China, China 
+&: Futurewei Technology Inc., San Jose, USA
+^: Dartmouth College
+
+Abstract
+
 Embodied agents depend on more than the capabilities of a language, vision-language, or action model. They
 require a runtime that grounds observations, coordinates executable capabilities, monitors outcomes, and
 manages intervention when physical execution diverges from a plan. This survey examines embodied agentic
