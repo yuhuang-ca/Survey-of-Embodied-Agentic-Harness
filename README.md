@@ -1,4 +1,4 @@
-<img width="468" height="170" alt="image" src="https://github.com/user-attachments/assets/994034dd-423a-4f68-a116-9dfa961f12f4" />Embodied Agentic Harnesses for Physical Intelligence A Survey
+Embodied Agentic Harnesses for Physical Intelligence A Survey
 
 Yu Huang*, Yue Chen&, Zijiang Yang#, Gary Ding^
 *: Institute of Advanced Technology, University of Science and Technology of China, China 
