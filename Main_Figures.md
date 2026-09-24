@@ -43,7 +43,7 @@ action. Recommended synthesis, not a claim that every system implements all step
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/7097e829-eafd-4764-ac20-7fe954131ff1" />
 
-Figure 9. Evaluation that isolates the contribution of a runtime mechanism. Compare aligned baseline, full-system, and ablated conditions with independent outcome scoring. Changes in policy weights or interaction budget require additional controls. Recommended protocol [20, 30, 79, 97, 119, 121].<img width="468" height="58" alt="image" src="https://github.com/user-attachments/assets/5291b27c-155e-4b3a-9564-4c8db5c87398" />
+Figure 9. Evaluation that isolates the contribution of a runtime mechanism. Compare aligned baseline, full-system, and ablated conditions with independent outcome scoring. Changes in policy weights or interaction budget require additional controls. Recommended protocol [20, 30, 79, 97, 119, 121].
 
 
 
